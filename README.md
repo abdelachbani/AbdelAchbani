@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my own projects.<br>🤝 I’m looking for any kind of job.<br>🌱 I’m currently learning informatics & studying.<br>
+🔭 I’m currently working on my own projects.<br>🤝 I’m looking for any kind of job.<br>🌱 I’m currently studying Informatics Engineering.<br>
 
 
 ## 🌐 Socials:
