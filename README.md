@@ -67,7 +67,7 @@
 ###
 
 <div align="center">
-  <img height="47" src="https://th.bing.com/th/id/OIP.wQC1ZdiJh1PAsADOKUQxrQHaHa?w=163&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"  />
+  <img height="47" src="https://th.bing.com/th/id/OIP.9WiwNCiNH7PscIqlSmjI-wHaHa?w=199&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"  />
 </div>
 
 ###
